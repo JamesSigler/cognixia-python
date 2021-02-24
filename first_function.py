@@ -13,3 +13,16 @@ def greet(name, greet):
     print(greet, name + "!")
 
 greet("Maria", "Hello")
+
+
+x=int(input("Enter a number: "))
+y=int(input("Enter a 2nd number: "))
+
+def add(x,y):
+    print("Sum: ", x + y)
+
+def sub(x,y):
+    print("Subtraction: ", x - y)
+
+add(x, y)
+sub(x, y)
