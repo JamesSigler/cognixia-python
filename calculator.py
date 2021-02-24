@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 from os import system
+=======
+>>>>>>> 66b0b378c0b9b549de7fbc95f0bcf794b7a15843
 def add(x,y):
     print("Sum: ", x + y)
 
@@ -15,6 +18,7 @@ def pow(x,y):
     print("Power: ", x^y)
 
 
+<<<<<<< HEAD
 
 check=True
 while check:
@@ -45,3 +49,5 @@ while check:
         check = True
     
         
+=======
+>>>>>>> 66b0b378c0b9b549de7fbc95f0bcf794b7a15843
