@@ -30,15 +30,15 @@ while check:
     num1, num2 = int(num1), int(num2)
     
     if choice == 1:
-        print(add(num1,xnum2)
+        print(add(num1,xnum2))
     elif choice == 2:
-        print(sub(num1,xnum2)
+        print(sub(num1,xnum2))
     elif choice == 3:
-        print(mult(num1,xnum2)
+        print(mult(num1,xnum2))
     elif choice == 5:
-        print(div(num1,xnum2)
+        print(div(num1,xnum2))
     elif choice == 4:
-        print(pow(num1,xnum2)
+        print(pow(num1,xnum2))
     elif choice == 6
     
         
